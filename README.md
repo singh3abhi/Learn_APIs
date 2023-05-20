@@ -1,6 +1,6 @@
-# learn_api
+# Learn_APIs
 
-A new Flutter project.
+I created this repository while Learning REST APIs 
 
 ## Getting Started
 
